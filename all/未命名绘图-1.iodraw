@@ -30,8 +30,14 @@
         <mxCell id="X9kmZufPD-iVah_Uc5cH-10" value="评价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="78" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X9kmZufPD-iVah_Uc5cH-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="465" y="218" width="50" height="30" as="geometry" />
+        <mxCell id="X9kmZufPD-iVah_Uc5cH-11" value="奖励" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="218" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kmZufPD-iVah_Uc5cH-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="140" as="sourcePoint" />
+            <mxPoint x="480" y="90" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
