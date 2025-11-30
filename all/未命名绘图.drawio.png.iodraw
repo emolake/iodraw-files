@@ -1,0 +1,55 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="jZ5-wGienkEd1wUNTE_h">
+    <mxGraphModel dx="788" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="X9kmZufPD-iVah_Uc5cH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="X9kmZufPD-iVah_Uc5cH-2" target="X9kmZufPD-iVah_Uc5cH-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kmZufPD-iVah_Uc5cH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="X9kmZufPD-iVah_Uc5cH-2" target="X9kmZufPD-iVah_Uc5cH-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kmZufPD-iVah_Uc5cH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="X9kmZufPD-iVah_Uc5cH-2" target="X9kmZufPD-iVah_Uc5cH-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="310" />
+              <mxPoint x="360" y="310" />
+              <mxPoint x="360" y="102" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X9kmZufPD-iVah_Uc5cH-2" value="环境" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="248" width="100" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kmZufPD-iVah_Uc5cH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="X9kmZufPD-iVah_Uc5cH-3" target="X9kmZufPD-iVah_Uc5cH-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kmZufPD-iVah_Uc5cH-3" value="值函数（Critic）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="422.5" y="160" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kmZufPD-iVah_Uc5cH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="X9kmZufPD-iVah_Uc5cH-5" target="X9kmZufPD-iVah_Uc5cH-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kmZufPD-iVah_Uc5cH-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;策略（Actor）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="422.5" y="80" width="115" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kmZufPD-iVah_Uc5cH-10" value="评价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="480" y="130" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kmZufPD-iVah_Uc5cH-11" value="奖励" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="480" y="213" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kmZufPD-iVah_Uc5cH-14" value="状&lt;div&gt;态&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="390" y="208" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kmZufPD-iVah_Uc5cH-16" value="下&lt;div&gt;一&lt;/div&gt;&lt;div&gt;状&lt;/div&gt;&lt;div&gt;态&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="320" y="145" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="X9kmZufPD-iVah_Uc5cH-22" value="动作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="560" y="165" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
