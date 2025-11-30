@@ -33,7 +33,7 @@
           <mxGeometry x="420" y="63" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X9kmZufPD-iVah_Uc5cH-10" value="评价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="78" width="50" height="30" as="geometry" />
+          <mxGeometry x="480" y="123" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X9kmZufPD-iVah_Uc5cH-11" value="奖励" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="218" width="50" height="30" as="geometry" />
@@ -42,7 +42,7 @@
           <mxGeometry x="389" y="218" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X9kmZufPD-iVah_Uc5cH-16" value="下一状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="350" y="78" width="70" height="30" as="geometry" />
+          <mxGeometry x="280" y="123" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
