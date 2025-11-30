@@ -36,7 +36,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X9kmZufPD-iVah_Uc5cH-5" value="策略（Actor）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X9kmZufPD-iVah_Uc5cH-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;策略（Actor）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X9kmZufPD-iVah_Uc5cH-10" value="评价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
