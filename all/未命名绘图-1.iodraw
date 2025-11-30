@@ -10,7 +10,7 @@
         <mxCell id="X9kmZufPD-iVah_Uc5cH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X9kmZufPD-iVah_Uc5cH-2" target="X9kmZufPD-iVah_Uc5cH-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X9kmZufPD-iVah_Uc5cH-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X9kmZufPD-iVah_Uc5cH-2" value="环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X9kmZufPD-iVah_Uc5cH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X9kmZufPD-iVah_Uc5cH-3" target="X9kmZufPD-iVah_Uc5cH-5">
@@ -27,7 +27,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X9kmZufPD-iVah_Uc5cH-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X9kmZufPD-iVah_Uc5cH-5" value="策略（Actor）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X9kmZufPD-iVah_Uc5cH-10" value="评价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
