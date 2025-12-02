@@ -8,7 +8,7 @@
           <mxGeometry x="130" y="360" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8WyFi68nU9Uew_M4zuI5-16" value="方案&lt;div&gt;（$$C_1$$)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="140" y="500" width="60" height="120" as="geometry" />
+          <mxGeometry x="100" y="460" width="40" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8WyFi68nU9Uew_M4zuI5-25" value="目标（$$A$$）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="250" width="150" height="50" as="geometry" />
