@@ -26,7 +26,13 @@
           <mxGeometry x="380" y="460" width="40" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8WyFi68nU9Uew_M4zuI5-31" value="方案&lt;div&gt;（$$C_1$$)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="150" y="510" width="40" height="130" as="geometry" />
+          <mxGeometry x="450" y="460" width="40" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8WyFi68nU9Uew_M4zuI5-32" value="方案&lt;div&gt;（$$C_1$$)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="520" y="455" width="40" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8WyFi68nU9Uew_M4zuI5-33" value="方案&lt;div&gt;（$$C_1$$)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="590" y="460" width="40" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
