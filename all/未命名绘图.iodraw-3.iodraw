@@ -19,7 +19,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZcnBgxB6X5xmuXJXD41A-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZcnBgxB6X5xmuXJXD41A-2" target="ZcnBgxB6X5xmuXJXD41A-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="214" />
+              <mxPoint x="220" y="428" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZcnBgxB6X5xmuXJXD41A-2" value="评估指标分析与选择" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="301" y="189" width="174" height="49" as="geometry" />
@@ -58,6 +63,9 @@
         </mxCell>
         <mxCell id="ZcnBgxB6X5xmuXJXD41A-15" value="建&lt;div&gt;立&lt;/div&gt;&lt;div&gt;指&lt;/div&gt;&lt;div&gt;标&lt;/div&gt;&lt;div&gt;体&lt;/div&gt;&lt;div&gt;系&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="287" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcnBgxB6X5xmuXJXD41A-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="248" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
