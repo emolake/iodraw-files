@@ -49,7 +49,7 @@
           <mxGeometry x="324" y="408" width="171" height="42" as="geometry" />
         </mxCell>
         <mxCell id="ZcnBgxB6X5xmuXJXD41A-5" value="自主性评估和结果分析" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="340" y="510" width="143" height="41" as="geometry" />
+          <mxGeometry x="338" y="510" width="143" height="41" as="geometry" />
         </mxCell>
         <mxCell id="ZcnBgxB6X5xmuXJXD41A-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ZcnBgxB6X5xmuXJXD41A-1" target="ZcnBgxB6X5xmuXJXD41A-2">
           <mxGeometry relative="1" as="geometry">
