@@ -43,13 +43,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZcnBgxB6X5xmuXJXD41A-3" value="综合评价确权方法分析与实现" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="277" y="287" width="222" height="66" as="geometry" />
+          <mxGeometry x="320" y="310" width="179" height="43" as="geometry" />
         </mxCell>
         <mxCell id="ZcnBgxB6X5xmuXJXD41A-4" value="路径规划实验与统计分析" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="285" y="403" width="206" height="49" as="geometry" />
+          <mxGeometry x="320" y="410" width="171" height="42" as="geometry" />
         </mxCell>
         <mxCell id="ZcnBgxB6X5xmuXJXD41A-5" value="自主性评估和结果分析" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="293" y="502" width="190" height="49" as="geometry" />
+          <mxGeometry x="340" y="510" width="143" height="41" as="geometry" />
         </mxCell>
         <mxCell id="ZcnBgxB6X5xmuXJXD41A-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ZcnBgxB6X5xmuXJXD41A-1" target="ZcnBgxB6X5xmuXJXD41A-2">
           <mxGeometry relative="1" as="geometry">
