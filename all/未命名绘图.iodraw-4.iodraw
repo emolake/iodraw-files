@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="tJq-ZXTCqAhAfbf27AQ9">
-    <mxGraphModel dx="823" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="823" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="8WyFi68nU9Uew_M4zuI5-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8WyFi68nU9Uew_M4zuI5-15" target="8WyFi68nU9Uew_M4zuI5-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8WyFi68nU9Uew_M4zuI5-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;准则（$$B_1$$)&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="8WyFi68nU9Uew_M4zuI5-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;准则$$B_1$$)&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="115" y="360" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8WyFi68nU9Uew_M4zuI5-16" value="方&lt;div style=&quot;font-size: 14px;&quot;&gt;案&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;（$$C_1$$)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=14;" vertex="1" parent="1">
