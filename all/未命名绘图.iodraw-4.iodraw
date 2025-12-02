@@ -79,8 +79,8 @@
         <mxCell id="8WyFi68nU9Uew_M4zuI5-36" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;准则$B_3$&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="535" y="360" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8WyFi68nU9Uew_M4zuI5-49" value="$$公式C_1$" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="8WyFi68nU9Uew_M4zuI5-49" value="$$公式C_1$$" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="40" width="40" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
