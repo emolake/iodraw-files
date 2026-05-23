@@ -7,8 +7,8 @@
         <mxCell id="Vaod-Fxq1nGPqI4danLf-1" value="自动驾驶路径规划自主性评估指标体系" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="140" y="200" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Vaod-Fxq1nGPqI4danLf-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="Vaod-Fxq1nGPqI4danLf-2" value="任务可靠性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
