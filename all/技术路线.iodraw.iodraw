@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xqGl6kB78aU5YIu5iHtj-2" value="基于AHP-CRITIC的自动驾驶路径规划自主性评估" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="340" width="320" height="50" as="geometry" />
+        <mxCell id="xqGl6kB78aU5YIu5iHtj-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;基于AHP-CRITIC的自动驾驶路径规划自主性评估&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="254" y="340" width="320" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
