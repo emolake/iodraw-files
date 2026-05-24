@@ -31,10 +31,10 @@
         <mxCell id="Vaod-Fxq1nGPqI4danLf-9" value="轨迹平滑度" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="390" y="320" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vaod-Fxq1nGPqI4danLf-10" value="" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="Vaod-Fxq1nGPqI4danLf-10" value="平均最小间隙" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="390" y="370" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vaod-Fxq1nGPqI4danLf-11" value="" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="Vaod-Fxq1nGPqI4danLf-11" value="平均反应时间" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="390" y="420" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
