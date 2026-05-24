@@ -37,9 +37,6 @@
         <mxCell id="Vaod-Fxq1nGPqI4danLf-11" value="平均反应时间" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="390" y="420" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vaod-Fxq1nGPqI4danLf-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="270" y="250" width="50" height="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
