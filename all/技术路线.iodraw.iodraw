@@ -37,8 +37,8 @@
         <mxCell id="xqGl6kB78aU5YIu5iHtj-24" value="自主性评估方法研究" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="410" width="140" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="xqGl6kB78aU5YIu5iHtj-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="xqGl6kB78aU5YIu5iHtj-30" value="自主性评估指标体系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="430" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
