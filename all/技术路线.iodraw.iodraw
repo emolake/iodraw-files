@@ -205,6 +205,9 @@
         <mxCell id="xqGl6kB78aU5YIu5iHtj-86" value="实验结果分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="810" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xqGl6kB78aU5YIu5iHtj-89" value="实验数据可靠性" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="740" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
