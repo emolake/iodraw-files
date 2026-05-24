@@ -56,16 +56,19 @@
           <mxGeometry x="400" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vaod-Fxq1nGPqI4danLf-8" value="行驶时间" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="400" y="265" width="120" height="30" as="geometry" />
+          <mxGeometry x="400" y="255" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vaod-Fxq1nGPqI4danLf-9" value="轨迹平滑度" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="400" y="315" width="120" height="30" as="geometry" />
+          <mxGeometry x="400" y="300" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vaod-Fxq1nGPqI4danLf-10" value="平均最小间隙" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="400" y="365" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vaod-Fxq1nGPqI4danLf-11" value="平均反应时间" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="400" y="415" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vaod-Fxq1nGPqI4danLf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.317;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Vaod-Fxq1nGPqI4danLf-10" target="Vaod-Fxq1nGPqI4danLf-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
