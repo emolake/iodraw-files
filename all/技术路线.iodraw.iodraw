@@ -19,7 +19,7 @@
         <mxCell id="xqGl6kB78aU5YIu5iHtj-15" value="路径规划问题建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="233.75" y="510" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xqGl6kB78aU5YIu5iHtj-16" value="车辆运动学" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xqGl6kB78aU5YIu5iHtj-16" value="车辆非完整性运动学" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="540" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xqGl6kB78aU5YIu5iHtj-17" value="马尔可夫决策过程" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
