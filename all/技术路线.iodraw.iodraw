@@ -46,7 +46,7 @@
         <mxCell id="xqGl6kB78aU5YIu5iHtj-32" value="基于组合赋权的&lt;div&gt;自主性评估方法&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="660" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xqGl6kB78aU5YIu5iHtj-33" value="任务可靠性" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xqGl6kB78aU5YIu5iHtj-33" value="可靠性" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="490" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xqGl6kB78aU5YIu5iHtj-34" value="运行效能" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -56,7 +56,7 @@
           <mxGeometry x="612" y="490" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xqGl6kB78aU5YIu5iHtj-36" value="七项二级指标" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="515" y="530" width="90" height="20" as="geometry" />
+          <mxGeometry x="515" y="520" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xqGl6kB78aU5YIu5iHtj-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqGl6kB78aU5YIu5iHtj-34" target="xqGl6kB78aU5YIu5iHtj-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
