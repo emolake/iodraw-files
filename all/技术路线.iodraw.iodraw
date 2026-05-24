@@ -38,7 +38,10 @@
           <mxGeometry x="430" y="410" width="140" height="260" as="geometry" />
         </mxCell>
         <mxCell id="xqGl6kB78aU5YIu5iHtj-30" value="自主性评估指标体系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="430" width="120" height="30" as="geometry" />
+          <mxGeometry x="440" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xqGl6kB78aU5YIu5iHtj-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
