@@ -16,13 +16,11 @@
         <mxCell id="Vaod-Fxq1nGPqI4danLf-1" value="自动驾驶路径规划自主性&lt;div&gt;评估指标体系&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="140" y="200" width="60" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Vaod-Fxq1nGPqI4danLf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Vaod-Fxq1nGPqI4danLf-2" target="Vaod-Fxq1nGPqI4danLf-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="380" y="200" />
-              <mxPoint x="380" y="135" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Vaod-Fxq1nGPqI4danLf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Vaod-Fxq1nGPqI4danLf-2" target="Vaod-Fxq1nGPqI4danLf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vaod-Fxq1nGPqI4danLf-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Vaod-Fxq1nGPqI4danLf-2" target="Vaod-Fxq1nGPqI4danLf-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vaod-Fxq1nGPqI4danLf-2" value="任务可靠性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="175" width="120" height="50" as="geometry" />
