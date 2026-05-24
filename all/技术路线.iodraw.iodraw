@@ -185,7 +185,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xqGl6kB78aU5YIu5iHtj-75" value="仿真实验分析" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="680" width="140" height="220" as="geometry" />
+          <mxGeometry x="220" y="680" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqGl6kB78aU5YIu5iHtj-85" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xqGl6kB78aU5YIu5iHtj-75">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xqGl6kB78aU5YIu5iHtj-80" value="最终评分" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="840" width="110" height="40" as="geometry" />
