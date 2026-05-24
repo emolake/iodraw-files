@@ -94,8 +94,8 @@
             <mxPoint x="580" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xqGl6kB78aU5YIu5iHtj-48" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="xqGl6kB78aU5YIu5iHtj-48" value="测试场景" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="620" width="55" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
