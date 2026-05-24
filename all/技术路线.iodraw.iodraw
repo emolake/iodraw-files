@@ -205,17 +205,14 @@
         <mxCell id="xqGl6kB78aU5YIu5iHtj-85" value="指标数据分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="238.75" y="720" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xqGl6kB78aU5YIu5iHtj-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqGl6kB78aU5YIu5iHtj-86" target="xqGl6kB78aU5YIu5iHtj-91">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="xqGl6kB78aU5YIu5iHtj-86" value="实验结果分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="800" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xqGl6kB78aU5YIu5iHtj-89" value="实验数据可靠性" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="770" width="95" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xqGl6kB78aU5YIu5iHtj-91" value="实验结果分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="910" width="100" height="30" as="geometry" />
+        <mxCell id="xqGl6kB78aU5YIu5iHtj-93" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
