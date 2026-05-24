@@ -199,10 +199,13 @@
             <mxPoint x="370" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xqGl6kB78aU5YIu5iHtj-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqGl6kB78aU5YIu5iHtj-85" target="xqGl6kB78aU5YIu5iHtj-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xqGl6kB78aU5YIu5iHtj-85" value="指标数据分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="238.75" y="720" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xqGl6kB78aU5YIu5iHtj-86" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xqGl6kB78aU5YIu5iHtj-86" value="实验结果分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="810" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
