@@ -58,7 +58,13 @@
         <mxCell id="xqGl6kB78aU5YIu5iHtj-36" value="七项二级指标" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="530" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xqGl6kB78aU5YIu5iHtj-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="xqGl6kB78aU5YIu5iHtj-30">
+        <mxCell id="xqGl6kB78aU5YIu5iHtj-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqGl6kB78aU5YIu5iHtj-34" target="xqGl6kB78aU5YIu5iHtj-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="560" as="sourcePoint" />
+            <mxPoint x="580" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xqGl6kB78aU5YIu5iHtj-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="560" as="sourcePoint" />
             <mxPoint x="580" y="510" as="targetPoint" />
