@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="p3BnyvjDKAIrLjV9HG90">
-    <mxGraphModel dx="357" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="546" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,6 +216,9 @@
         </mxCell>
         <mxCell id="xqGl6kB78aU5YIu5iHtj-94" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;评估方法有效性&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="850" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xqGl6kB78aU5YIu5iHtj-96" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="580" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
