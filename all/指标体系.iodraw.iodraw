@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Vaod-Fxq1nGPqI4danLf-1" value="自动驾驶路径规划自主性评估指标体系" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="Vaod-Fxq1nGPqI4danLf-1" value="自动驾驶路径规划自主性&lt;div&gt;评估指标体系&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="140" y="200" width="60" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Vaod-Fxq1nGPqI4danLf-2" value="任务可靠性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -36,6 +36,13 @@
         </mxCell>
         <mxCell id="Vaod-Fxq1nGPqI4danLf-11" value="平均反应时间" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="390" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vaod-Fxq1nGPqI4danLf-12" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="90" y="430" as="sourcePoint" />
+            <mxPoint x="190" y="430" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
