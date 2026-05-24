@@ -22,8 +22,8 @@
         <mxCell id="xqGl6kB78aU5YIu5iHtj-16" value="车辆运动学模型" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="540" width="95" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xqGl6kB78aU5YIu5iHtj-17" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="560" width="90" height="20" as="geometry" />
+        <mxCell id="xqGl6kB78aU5YIu5iHtj-17" value="马尔可夫决策过程" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="565" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
