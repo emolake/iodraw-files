@@ -211,7 +211,7 @@
         <mxCell id="xqGl6kB78aU5YIu5iHtj-89" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;实验数据可靠性&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="770" width="95" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xqGl6kB78aU5YIu5iHtj-94" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;实验数据可靠性&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xqGl6kB78aU5YIu5iHtj-94" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;评估方法有效性&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="850" width="95" height="20" as="geometry" />
         </mxCell>
       </root>
