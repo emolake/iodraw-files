@@ -25,6 +25,15 @@
         <mxCell id="Vaod-Fxq1nGPqI4danLf-2" value="任务可靠性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="175" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Vaod-Fxq1nGPqI4danLf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Vaod-Fxq1nGPqI4danLf-3" target="Vaod-Fxq1nGPqI4danLf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vaod-Fxq1nGPqI4danLf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Vaod-Fxq1nGPqI4danLf-3" target="Vaod-Fxq1nGPqI4danLf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vaod-Fxq1nGPqI4danLf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Vaod-Fxq1nGPqI4danLf-3" target="Vaod-Fxq1nGPqI4danLf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Vaod-Fxq1nGPqI4danLf-3" value="运行效能" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="255" width="120" height="50" as="geometry" />
         </mxCell>
