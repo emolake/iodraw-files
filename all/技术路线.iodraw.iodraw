@@ -38,13 +38,13 @@
           <mxGeometry x="430" y="410" width="260" height="370" as="geometry" />
         </mxCell>
         <mxCell id="xqGl6kB78aU5YIu5iHtj-30" value="自主性评估指标体系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="450" width="120" height="30" as="geometry" />
+          <mxGeometry x="500" y="450" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xqGl6kB78aU5YIu5iHtj-31" value="自主性评估任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="525" width="100" height="30" as="geometry" />
+          <mxGeometry x="505" y="580" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xqGl6kB78aU5YIu5iHtj-32" value="基于组合赋权的&lt;div&gt;自主性评估方法&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="585" width="110" height="40" as="geometry" />
+          <mxGeometry x="505" y="660" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
