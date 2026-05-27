@@ -16,19 +16,12 @@
         <mxCell id="WT3ydzHgEvdFsSRSCsdq-6" value="兼顾主观先验知识与客观数据特征" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="355" y="515" width="258" height="258" as="geometry" />
         </mxCell>
-        <mxCell id="WT3ydzHgEvdFsSRSCsdq-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="WT3ydzHgEvdFsSRSCsdq-3" target="WT3ydzHgEvdFsSRSCsdq-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="430" y="350" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WT3ydzHgEvdFsSRSCsdq-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WT3ydzHgEvdFsSRSCsdq-5" target="WT3ydzHgEvdFsSRSCsdq-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WT3ydzHgEvdFsSRSCsdq-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WT3ydzHgEvdFsSRSCsdq-3">
+        <mxCell id="WT3ydzHgEvdFsSRSCsdq-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WT3ydzHgEvdFsSRSCsdq-3" target="WT3ydzHgEvdFsSRSCsdq-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="410" as="sourcePoint" />
             <mxPoint x="340" y="360" as="targetPoint" />
