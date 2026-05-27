@@ -8,7 +8,7 @@
           <mxGeometry x="261" y="300" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WT3ydzHgEvdFsSRSCsdq-4" value="确定特征提取函数 F &#xa;数据预处理方式 Ψ" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="170" y="399" width="175" height="66" as="geometry" />
+          <mxGeometry x="170" y="399" width="140" height="41" as="geometry" />
         </mxCell>
         <mxCell id="WT3ydzHgEvdFsSRSCsdq-5" value="生成权重分布函数 W" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="395" y="407" width="177" height="49" as="geometry" />
