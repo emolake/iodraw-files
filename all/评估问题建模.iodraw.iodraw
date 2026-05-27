@@ -16,15 +16,6 @@
         <mxCell id="WT3ydzHgEvdFsSRSCsdq-6" value="兼顾主观先验知识与客观数据特征" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="355" y="515" width="258" height="258" as="geometry" />
         </mxCell>
-        <mxCell id="WT3ydzHgEvdFsSRSCsdq-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0.99;entryX=0.475;entryY=0.006;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WT3ydzHgEvdFsSRSCsdq-3" target="WT3ydzHgEvdFsSRSCsdq-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="280" y="350" />
-              <mxPoint x="270" y="360" />
-              <mxPoint x="258" y="374" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WT3ydzHgEvdFsSRSCsdq-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="WT3ydzHgEvdFsSRSCsdq-3" target="WT3ydzHgEvdFsSRSCsdq-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
