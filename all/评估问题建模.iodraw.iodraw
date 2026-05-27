@@ -10,6 +10,37 @@
         <mxCell id="WT3ydzHgEvdFsSRSCsdq-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;特征提取函数$\mathF$&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;数据预处理方式$\mathPsi$&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="60" width="156" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="WT3ydzHgEvdFsSRSCsdq-3" value="自主性评估的数学建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="261" y="300" width="220" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="WT3ydzHgEvdFsSRSCsdq-4" value="确定特征提取函数 F 与数据预处理方式 Ψ" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="170" y="399" width="175" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="WT3ydzHgEvdFsSRSCsdq-5" value="生成权重分布函数 W" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="395" y="407" width="177" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="WT3ydzHgEvdFsSRSCsdq-6" value="兼顾主观先验知识与客观数据特征" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="355" y="515" width="258" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="WT3ydzHgEvdFsSRSCsdq-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WT3ydzHgEvdFsSRSCsdq-3" target="WT3ydzHgEvdFsSRSCsdq-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="258" y="374" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT3ydzHgEvdFsSRSCsdq-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="WT3ydzHgEvdFsSRSCsdq-3" target="WT3ydzHgEvdFsSRSCsdq-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="484" y="374" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT3ydzHgEvdFsSRSCsdq-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WT3ydzHgEvdFsSRSCsdq-5" target="WT3ydzHgEvdFsSRSCsdq-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
