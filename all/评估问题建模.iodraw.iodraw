@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WT3ydzHgEvdFsSRSCsdq-3" value="自主性评估的数学建模" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="120" y="500" width="70" height="150" as="geometry" />
+          <mxGeometry x="150" y="500" width="40" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WT3ydzHgEvdFsSRSCsdq-4" value="确定特征提取函数 F &#xa;数据预处理方式 Ψ" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="230" y="500" width="140" height="41" as="geometry" />
