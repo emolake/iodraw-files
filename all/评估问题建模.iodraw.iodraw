@@ -19,14 +19,6 @@
         <mxCell id="WT3ydzHgEvdFsSRSCsdq-5" value="生成权重分布函数 W" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="370" y="380" width="140" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="WT3ydzHgEvdFsSRSCsdq-6" value="兼顾主观先验知识与客观数据特征" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="355" y="515" width="258" height="258" as="geometry" />
-        </mxCell>
-        <mxCell id="WT3ydzHgEvdFsSRSCsdq-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WT3ydzHgEvdFsSRSCsdq-5" target="WT3ydzHgEvdFsSRSCsdq-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
