@@ -7,7 +7,7 @@
         <mxCell id="WT3ydzHgEvdFsSRSCsdq-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;自主性评估问题&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="90" width="100" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="WT3ydzHgEvdFsSRSCsdq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WT3ydzHgEvdFsSRSCsdq-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;特征提取函数 F&amp;lt;br&amp;gt;数据预处理方式 &amp;amp;Psi&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
