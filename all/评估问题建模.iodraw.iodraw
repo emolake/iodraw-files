@@ -11,7 +11,7 @@
           <mxGeometry x="170" y="399" width="140" height="41" as="geometry" />
         </mxCell>
         <mxCell id="WT3ydzHgEvdFsSRSCsdq-5" value="生成权重分布函数 W" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="380" y="403" width="162" height="33" as="geometry" />
+          <mxGeometry x="370" y="380" width="140" height="37" as="geometry" />
         </mxCell>
         <mxCell id="WT3ydzHgEvdFsSRSCsdq-6" value="兼顾主观先验知识与客观数据特征" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="355" y="515" width="258" height="258" as="geometry" />
