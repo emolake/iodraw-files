@@ -4,20 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WT3ydzHgEvdFsSRSCsdq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WT3ydzHgEvdFsSRSCsdq-3" target="WT3ydzHgEvdFsSRSCsdq-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WT3ydzHgEvdFsSRSCsdq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WT3ydzHgEvdFsSRSCsdq-3" target="WT3ydzHgEvdFsSRSCsdq-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WT3ydzHgEvdFsSRSCsdq-3" value="自主性评估的数学建模" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="120" y="500" width="70" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WT3ydzHgEvdFsSRSCsdq-4" value="确定特征提取函数 F &#xa;数据预处理方式 Ψ" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="280" y="450" width="140" height="41" as="geometry" />
+          <mxGeometry x="230" y="490" width="140" height="41" as="geometry" />
         </mxCell>
         <mxCell id="WT3ydzHgEvdFsSRSCsdq-5" value="生成权重分布函数 W" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="370" y="380" width="140" height="37" as="geometry" />
+          <mxGeometry x="230" y="613" width="140" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
