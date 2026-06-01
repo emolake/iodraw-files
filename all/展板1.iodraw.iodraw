@@ -92,7 +92,7 @@
           <mxGeometry x="140" y="180" width="480" height="250" as="geometry" />
         </mxCell>
         <mxCell id="wGWm2gsdvFHrbrHYuiXT-34" value="" style="swimlane;startSize=0;" vertex="1" parent="wGWm2gsdvFHrbrHYuiXT-32">
-          <mxGeometry x="240" width="240" height="250" as="geometry" />
+          <mxGeometry x="240" width="240" height="200" as="geometry" />
         </mxCell>
         <mxCell id="wGWm2gsdvFHrbrHYuiXT-6" value="基于组合赋权的&lt;div&gt;自主性评估方法&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wGWm2gsdvFHrbrHYuiXT-34">
           <mxGeometry x="65" y="5" width="105" height="35" as="geometry" />
