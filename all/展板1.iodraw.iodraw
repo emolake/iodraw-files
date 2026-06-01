@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wGWm2gsdvFHrbrHYuiXT-32" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="180" width="480" height="250" as="geometry" />
+          <mxGeometry x="140" y="180" width="480" height="200" as="geometry" />
         </mxCell>
         <mxCell id="wGWm2gsdvFHrbrHYuiXT-34" value="" style="swimlane;startSize=0;" vertex="1" parent="wGWm2gsdvFHrbrHYuiXT-32">
           <mxGeometry x="240" width="240" height="200" as="geometry" />
