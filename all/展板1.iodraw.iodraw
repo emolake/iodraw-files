@@ -154,7 +154,7 @@
           <mxGeometry x="80" y="110" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wGWm2gsdvFHrbrHYuiXT-31" value="最终评分" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="wGWm2gsdvFHrbrHYuiXT-34">
-          <mxGeometry x="65" y="160" width="110" height="40" as="geometry" />
+          <mxGeometry x="67.5" y="160" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wGWm2gsdvFHrbrHYuiXT-33" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="290" width="240" height="90" as="geometry" />
