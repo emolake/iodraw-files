@@ -91,9 +91,6 @@
         <mxCell id="wGWm2gsdvFHrbrHYuiXT-32" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="180" width="480" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="wGWm2gsdvFHrbrHYuiXT-31" value="最终评分" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="wGWm2gsdvFHrbrHYuiXT-32">
-          <mxGeometry x="305" y="200" width="110" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="wGWm2gsdvFHrbrHYuiXT-34" value="" style="swimlane;startSize=0;" vertex="1" parent="wGWm2gsdvFHrbrHYuiXT-32">
           <mxGeometry x="240" width="240" height="250" as="geometry" />
         </mxCell>
@@ -138,23 +135,26 @@
         </mxCell>
         <mxCell id="wGWm2gsdvFHrbrHYuiXT-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="wGWm2gsdvFHrbrHYuiXT-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="100" as="sourcePoint" />
-            <mxPoint x="180" y="100" as="targetPoint" />
+            <mxPoint x="60" y="90" as="sourcePoint" />
+            <mxPoint x="180" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGWm2gsdvFHrbrHYuiXT-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="wGWm2gsdvFHrbrHYuiXT-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="100" as="sourcePoint" />
-            <mxPoint x="120" y="120" as="targetPoint" />
+            <mxPoint x="120" y="90" as="sourcePoint" />
+            <mxPoint x="120" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGWm2gsdvFHrbrHYuiXT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wGWm2gsdvFHrbrHYuiXT-34" source="wGWm2gsdvFHrbrHYuiXT-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="169.9999999999999" as="targetPoint" />
+            <mxPoint x="120" y="159.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGWm2gsdvFHrbrHYuiXT-30" value="组合赋权" style="whiteSpace=wrap;html=1;" vertex="1" parent="wGWm2gsdvFHrbrHYuiXT-34">
-          <mxGeometry x="80" y="120" width="80" height="30" as="geometry" />
+          <mxGeometry x="80" y="110" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wGWm2gsdvFHrbrHYuiXT-31" value="最终评分" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="wGWm2gsdvFHrbrHYuiXT-34">
+          <mxGeometry x="65" y="160" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wGWm2gsdvFHrbrHYuiXT-33" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="290" width="240" height="90" as="geometry" />
