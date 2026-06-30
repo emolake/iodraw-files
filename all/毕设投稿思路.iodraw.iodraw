@@ -7,6 +7,12 @@
         <mxCell id="VdOzDAagnTgefaC624wS-1" value="实验场景（5个）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VdOzDAagnTgefaC624wS-3" value="BEV场景图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VdOzDAagnTgefaC624wS-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="278" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
