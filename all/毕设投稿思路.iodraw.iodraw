@@ -13,7 +13,7 @@
         <mxCell id="VdOzDAagnTgefaC624wS-35" value="BEV场景图&lt;div&gt;视觉模态&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="140" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-36" value="轨迹序列" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VdOzDAagnTgefaC624wS-36" value="轨迹序列&lt;div&gt;时序/数值模态&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="205" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-37" value="场景文本描述" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
