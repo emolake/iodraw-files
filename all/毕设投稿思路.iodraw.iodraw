@@ -34,8 +34,11 @@
         <mxCell id="VdOzDAagnTgefaC624wS-19" value="障碍物动态性" style="whiteSpace=wrap;html=1;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
           <mxGeometry x="189" y="40" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-20" value="障碍物动态性" style="whiteSpace=wrap;html=1;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
+        <mxCell id="VdOzDAagnTgefaC624wS-20" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
           <mxGeometry x="189" y="70" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VdOzDAagnTgefaC624wS-21" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
+          <mxGeometry x="189" y="100" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VdOzDAagnTgefaC624wS-13" target="VdOzDAagnTgefaC624wS-17">
           <mxGeometry relative="1" as="geometry" />
