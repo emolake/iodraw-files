@@ -26,7 +26,13 @@
           <mxGeometry x="180" y="120" width="340" height="210" as="geometry" />
         </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-15" value="多模态交通信息提取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
-          <mxGeometry x="-5" width="130" height="30" as="geometry" />
+          <mxGeometry x="90" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdOzDAagnTgefaC624wS-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="310" as="sourcePoint" />
+            <mxPoint x="350" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
