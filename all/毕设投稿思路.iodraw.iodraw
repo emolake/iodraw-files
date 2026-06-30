@@ -23,7 +23,7 @@
           <mxGeometry x="300" y="180" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-14" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="120" width="340" height="210" as="geometry" />
+          <mxGeometry x="180" y="120" width="300" height="210" as="geometry" />
         </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-15" value="多模态交通信息提取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
           <mxGeometry x="90" width="130" height="30" as="geometry" />
