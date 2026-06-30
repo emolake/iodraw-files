@@ -22,7 +22,7 @@
         <mxCell id="VdOzDAagnTgefaC624wS-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="300" y="180" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-14" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+        <mxCell id="VdOzDAagnTgefaC624wS-14" value="" style="swimlane;startSize=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="120" width="540" height="210" as="geometry" />
         </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-15" value="多模态交通信息提取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
