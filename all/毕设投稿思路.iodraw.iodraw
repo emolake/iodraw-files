@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VdOzDAagnTgefaC624wS-1" value="实验场景（5个）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VdOzDAagnTgefaC624wS-1" value="实验场景(5个)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="220" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-3" value="BEV场景图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -23,7 +23,7 @@
           <mxGeometry x="300" y="180" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-14" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="120" width="300" height="210" as="geometry" />
+          <mxGeometry x="50" y="120" width="430" height="210" as="geometry" />
         </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-15" value="多模态交通信息提取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
           <mxGeometry x="90" width="130" height="30" as="geometry" />
