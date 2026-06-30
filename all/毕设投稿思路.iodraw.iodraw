@@ -34,14 +34,11 @@
         <mxCell id="VdOzDAagnTgefaC624wS-25" value="障碍物动态性" style="whiteSpace=wrap;html=1;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
           <mxGeometry x="319" y="50" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-26" value="空间拥挤度" style="whiteSpace=wrap;html=1;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
-          <mxGeometry x="319" y="80" width="90" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-27" value="运动不确定性" style="whiteSpace=wrap;html=1;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
           <mxGeometry x="319" y="110" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-28" value="潜在冲突强度" style="whiteSpace=wrap;html=1;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
-          <mxGeometry x="319" y="140" width="90" height="20" as="geometry" />
+          <mxGeometry x="319" y="80" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-29" value="语义风险等级" style="whiteSpace=wrap;html=1;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
           <mxGeometry x="319" y="170" width="90" height="20" as="geometry" />
@@ -50,6 +47,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="342" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VdOzDAagnTgefaC624wS-26" value="空间拥挤度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
