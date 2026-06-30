@@ -4,61 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VdOzDAagnTgefaC624wS-1" value="实验场景(5个)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="220" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-3" value="BEV场景图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="160" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-6" value="轨迹序列" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="225" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-7" value="场景文本描述" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="290" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="160" y="180" width="20" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="300" y="180" width="20" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-14" value="" style="swimlane;startSize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="150" width="590" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
-          <mxGeometry x="290" y="61" width="20" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-25" value="障碍物动态性" style="whiteSpace=wrap;html=1;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
-          <mxGeometry x="319" y="50" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-27" value="运动不确定性" style="whiteSpace=wrap;html=1;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
-          <mxGeometry x="319" y="110" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-28" value="潜在冲突强度" style="whiteSpace=wrap;html=1;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
-          <mxGeometry x="319" y="80" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-29" value="语义风险等级" style="whiteSpace=wrap;html=1;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
-          <mxGeometry x="319" y="170" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-26" value="空间拥挤度" style="whiteSpace=wrap;html=1;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
-          <mxGeometry x="319" y="140" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-32" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;语义场景风险分数SSR&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
-          <mxGeometry x="440" y="77.5" width="110" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-33" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;动态交互复杂度DIC&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
-          <mxGeometry x="440" y="152" width="110" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VdOzDAagnTgefaC624wS-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="342" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-30" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
-          <mxGeometry x="470" y="180" width="20" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="470" y="270" width="20" height="30" as="geometry" />
+          <mxGeometry x="50" y="120" width="590" height="210" as="geometry" />
         </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-15" value="多模态场景信息驱动的自动驾驶路径规划自主性评估方法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="90" width="320" height="30" as="geometry" />
