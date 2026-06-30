@@ -28,44 +28,28 @@
         <mxCell id="VdOzDAagnTgefaC624wS-15" value="多模态交通信息提取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
           <mxGeometry x="90" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
-          <mxGeometry x="160" y="60" width="20" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-19" value="障碍物动态性" style="whiteSpace=wrap;html=1;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
-          <mxGeometry x="189" y="49" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-20" value="空间拥挤度" style="whiteSpace=wrap;html=1;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
-          <mxGeometry x="189" y="79" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-21" value="运动不确定性" style="whiteSpace=wrap;html=1;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
-          <mxGeometry x="189" y="109" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-22" value="潜在冲突强度" style="whiteSpace=wrap;html=1;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
-          <mxGeometry x="189" y="139" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-23" value="语义风险等级" style="whiteSpace=wrap;html=1;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
-          <mxGeometry x="189" y="169" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VdOzDAagnTgefaC624wS-13" target="VdOzDAagnTgefaC624wS-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VdOzDAagnTgefaC624wS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VdOzDAagnTgefaC624wS-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="342" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="350" y="190" width="20" height="120" as="geometry" />
+          <mxGeometry x="530" y="271" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-25" value="障碍物动态性" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="379" y="179" width="90" height="20" as="geometry" />
+          <mxGeometry x="559" y="260" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-26" value="空间拥挤度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="379" y="209" width="90" height="20" as="geometry" />
+          <mxGeometry x="559" y="290" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-27" value="运动不确定性" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="379" y="239" width="90" height="20" as="geometry" />
+          <mxGeometry x="559" y="320" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-28" value="潜在冲突强度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="379" y="269" width="90" height="20" as="geometry" />
+          <mxGeometry x="559" y="350" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-29" value="语义风险等级" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="379" y="299" width="90" height="20" as="geometry" />
+          <mxGeometry x="559" y="380" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
