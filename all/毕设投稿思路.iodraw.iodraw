@@ -25,9 +25,6 @@
         <mxCell id="VdOzDAagnTgefaC624wS-14" value="" style="swimlane;startSize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="120" width="590" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="VdOzDAagnTgefaC624wS-15" value="多模态交通信息提取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
-          <mxGeometry x="150" width="130" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="VdOzDAagnTgefaC624wS-14">
           <mxGeometry x="290" y="61" width="20" height="120" as="geometry" />
         </mxCell>
@@ -62,6 +59,9 @@
         </mxCell>
         <mxCell id="VdOzDAagnTgefaC624wS-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="470" y="270" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdOzDAagnTgefaC624wS-15" value="多模态场景信息驱动的自动驾驶路径规划自主性评估方法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="90" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
