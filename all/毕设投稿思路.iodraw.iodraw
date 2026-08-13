@@ -78,8 +78,14 @@
         <mxCell id="6ebrRSl7JTuhjl0IRIqc-9" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="360" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6ebrRSl7JTuhjl0IRIqc-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="6ebrRSl7JTuhjl0IRIqc-11" value="Level" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="445" y="358" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6ebrRSl7JTuhjl0IRIqc-12" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="370" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6ebrRSl7JTuhjl0IRIqc-13" value="Level" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="368" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
