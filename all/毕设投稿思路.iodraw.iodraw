@@ -87,6 +87,9 @@
         <mxCell id="6ebrRSl7JTuhjl0IRIqc-13" value="Seed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6ebrRSl7JTuhjl0IRIqc-12">
           <mxGeometry x="30" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6ebrRSl7JTuhjl0IRIqc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ebrRSl7JTuhjl0IRIqc-14" target="6ebrRSl7JTuhjl0IRIqc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6ebrRSl7JTuhjl0IRIqc-14" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="1">
           <mxGeometry x="419" y="445" width="30" height="30" as="geometry" />
         </mxCell>
