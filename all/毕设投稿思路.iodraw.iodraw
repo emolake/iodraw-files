@@ -70,16 +70,10 @@
           <mxGeometry x="15" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6ebrRSl7JTuhjl0IRIqc-4" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="360" width="110" height="200" as="geometry" />
+          <mxGeometry x="250" y="360" width="190" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6ebrRSl7JTuhjl0IRIqc-5" value="Family" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6ebrRSl7JTuhjl0IRIqc-4">
           <mxGeometry x="25" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6ebrRSl7JTuhjl0IRIqc-6" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="414" y="360" width="110" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="6ebrRSl7JTuhjl0IRIqc-7" value="Algorithms" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6ebrRSl7JTuhjl0IRIqc-6">
-          <mxGeometry x="15" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
