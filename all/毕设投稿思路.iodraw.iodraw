@@ -76,7 +76,7 @@
           <mxGeometry x="25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6ebrRSl7JTuhjl0IRIqc-9" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="360" width="110" height="70" as="geometry" />
+          <mxGeometry x="379" y="360" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6ebrRSl7JTuhjl0IRIqc-11" value="Level" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6ebrRSl7JTuhjl0IRIqc-9">
           <mxGeometry x="30" width="50" height="30" as="geometry" />
