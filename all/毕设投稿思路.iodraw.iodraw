@@ -61,7 +61,7 @@
           <mxGeometry x="480" y="250" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6ebrRSl7JTuhjl0IRIqc-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="360" width="110" height="200" as="geometry" />
+          <mxGeometry x="510" y="360" width="110" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6ebrRSl7JTuhjl0IRIqc-3" value="Algorithms" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6ebrRSl7JTuhjl0IRIqc-2">
           <mxGeometry x="15" width="80" height="30" as="geometry" />
@@ -79,7 +79,7 @@
           <mxGeometry x="30" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6ebrRSl7JTuhjl0IRIqc-12" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="490" width="110" height="70" as="geometry" />
+          <mxGeometry x="379" y="490" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6ebrRSl7JTuhjl0IRIqc-13" value="Seed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6ebrRSl7JTuhjl0IRIqc-12">
           <mxGeometry x="30" width="50" height="30" as="geometry" />
