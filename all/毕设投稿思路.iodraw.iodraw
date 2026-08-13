@@ -75,13 +75,11 @@
         <mxCell id="6ebrRSl7JTuhjl0IRIqc-5" value="Family" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6ebrRSl7JTuhjl0IRIqc-4">
           <mxGeometry x="25" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6ebrRSl7JTuhjl0IRIqc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6ebrRSl7JTuhjl0IRIqc-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6ebrRSl7JTuhjl0IRIqc-9" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="330" width="110" height="70" as="geometry" />
+          <mxGeometry x="420" y="360" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6ebrRSl7JTuhjl0IRIqc-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="358" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
